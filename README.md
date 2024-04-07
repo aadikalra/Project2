@@ -1,3 +1,4 @@
 # New Project
 
-This project was local-created
+This project was created locally.
+Aadi loves mom!!
